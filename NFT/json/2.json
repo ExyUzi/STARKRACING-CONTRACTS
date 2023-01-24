@@ -1,0 +1,16 @@
+{
+  "name": "Stark' Racing",
+  "description": "Let's learn Cairo development!",
+  "image": "ipfs://QmPLrze8ffjzk2XVfgN64pL9vwHfAAfQxkbhQpWJQDoAPA/2.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Super Car"
+    },
+    {
+      "trait_type": "Speed",
+      "value": "90"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
